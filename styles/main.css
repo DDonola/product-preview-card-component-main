@@ -71,6 +71,10 @@ div.whitecard {
             height: 16px;
         }
 
+        &:hover {
+            cursor: pointer;
+        }
+
         &:active {
             background-color: var(--very-dark-cyan);
         }
